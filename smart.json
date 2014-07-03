@@ -1,0 +1,8 @@
+{
+  "name": "shippo",
+  "description": "Meteor package wrapped around Shippo's node client",
+  "homepage": "https://github.com/yubozhao/meteor-shippo",
+  "author": "Bozhao Yu <yubz86@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/yubozhao/meteor-shippo.git"
+}
